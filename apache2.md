@@ -42,5 +42,11 @@ add the website domain and ip adress (can be found via ```ifconfing```)
 
 ## Reference
 
+### Apache2
+
 https://bjtechnews.org/2016/08/setting-up-an-apache-virtual-hosts-on-ubuntu-16-04-for-website-hosting-video/
+
+### XAMPP
+
+https://wiki.ubuntu.cz/xampp
 
