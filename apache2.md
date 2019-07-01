@@ -44,7 +44,13 @@ add the website domain and ip adress (can be found via ```ifconfing```)
 
 ### Apache2
 
+#### setup
+
 https://bjtechnews.org/2016/08/setting-up-an-apache-virtual-hosts-on-ubuntu-16-04-for-website-hosting-video/
+
+#### remove apache from the computer
+http://xmodulo.com/how-to-uninstall-and-remove-apache2-on-ubuntu-debian.html
+
 
 ### XAMPP
 
