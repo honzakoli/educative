@@ -65,3 +65,4 @@ This is where your site is configured
 ## Reference
 
 - https://easywpguide.com/wordpress-manual/
+- https://www.youtube.com/watch?v=8AZ8GqW5iak
