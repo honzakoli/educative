@@ -64,4 +64,4 @@ This is where your site is configured
 
 ## Reference
 
-- https://easywpguide.com/wordpress-manual/posts-versus-pages/
+- https://easywpguide.com/wordpress-manual/
